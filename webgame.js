@@ -158,7 +158,7 @@ const player = {
   y: canvas.height / 2 - 25,
   width: 42,
   height: 54,
-  hp: 1000,
+  hp: 10000,
 };
 
 const sword = {
